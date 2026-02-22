@@ -7,4 +7,7 @@ American Sign Language (ASL) is a primary form of communication for many people 
 Scott Lowder, Matthew Cruz, Marco Parete and Ivan Chiu
 
 ## Final Report for Project:
+[View Final Report (PDF)](./ml_final_paper_asl.pdf)
 
+## All Files/Code for the Project (Google Drive):
+https://drive.google.com/drive/folders/1XCrG4UOiClRQMN8k01mIkA8jGjKbG1E0?usp=sharing
